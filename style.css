@@ -1,0 +1,12 @@
+body {
+    background-color: grey;
+}
+
+h1 {
+    color: red;
+}
+
+p {
+    width: 40%;
+    font-weight: 500;
+}
